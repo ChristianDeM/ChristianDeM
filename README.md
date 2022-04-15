@@ -21,11 +21,3 @@
 
 
 
-<h4> Correcion de imagenes multimedia 🎨</h4>
-<p>  pasatiempos: <p/>
-<ul>
- <li> tocar guitarra :guitar:
- <li> Remasterizar videos :tv:
- <li> renderizar figuras mmd con blender:cat:
-   
- <ul/>
